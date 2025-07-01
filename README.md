@@ -7,7 +7,7 @@
 
 🎓 MSc Computer Science & AI, CU Boulder
 
-🌐 GitHub: \[Click here](https://github.com/FUenal)) 
+🌐 Webpage: \[Webpage](https://dataiq.netlify.app/)
 
 🔗 LinkedIn: \[Click here](https://www.linkedin.com/in/fatih-uenal/) 
 
