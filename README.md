@@ -161,7 +161,7 @@ KMeans clustering successfully identified **four threat archetypes**.
 
 ```bash
 # Clone the repository
-git clone [YOUR_GITHUB_REPO_URL]
+git clone https://github.com/FUenal/cu-boulder-csca-5632-unsupervised-algorithms-final/tree/main?tab=readme-ov-file
 cd [YOUR_REPO_NAME]
 
 # Download VCDB dataset
