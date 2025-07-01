@@ -199,6 +199,6 @@ This project is licensed under the **MIT License** — see `LICENSE` for details
 **Fatih Uenal**
 🎓 MSc Computer Science & AI, CU Boulder
 🌐 GitHub: \[Insert link]
-🔗 LinkedIn: \[Insert link]
+🔗 LinkedIn: \[[Insert link](https://www.linkedin.com/in/fatih-uenal/)]
 
 
