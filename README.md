@@ -198,7 +198,8 @@ This project is licensed under the **MIT License** — see `LICENSE` for details
 
 **Fatih Uenal**
 🎓 MSc Computer Science & AI, CU Boulder
-🌐 GitHub: \[Insert link]
-🔗 LinkedIn: \[[Insert link](https://www.linkedin.com/in/fatih-uenal/)]
+🌐 GitHub: \[Click here](https://github.com/FUenal))
+🔗 LinkedIn: \[Click here](https://www.linkedin.com/in/fatih-uenal/)
+📊 Kaggle Notebook: \[Click here](https://www.kaggle.com/code/fatihuenal/csca-5632-unsupervised-algorithms-final-2)
 
 
