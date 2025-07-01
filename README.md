@@ -6,10 +6,12 @@
 ## 0. Author
 
 **Fatih Uenal**
+
 🎓 MSc Computer Science & AI, CU Boulder
-🌐 GitHub: \[Click here](https://github.com/FUenal))
-🔗 LinkedIn: \[Click here](https://www.linkedin.com/in/fatih-uenal/)
-📊 Kaggle Notebook: \[Click here](https://www.kaggle.com/code/fatihuenal/csca-5632-unsupervised-algorithms-final-2)
+
+🌐 GitHub: \[Click here](https://github.com/FUenal)) 
+🔗 LinkedIn: \[Click here](https://www.linkedin.com/in/fatih-uenal/) 
+📊 Kaggle Notebook: \[Click here](https://www.kaggle.com/code/fatihuenal/csca-5632-unsupervised-algorithms-final-2) 
 
 ---
 
