@@ -185,7 +185,7 @@ jupyter notebook csca-5632-unsupervised-algorithms-final-2.ipynb
 
 * 📓 **Notebook:** `csca-5632-unsupervised-algorithms-final-2.ipynb`
 * 🎥 **Video Presentation:** \[Insert Link]
-* 📁 **GitHub Repository:** \[Insert Link]
+* 📁 **GitHub Repository:** \[Insert Link](https://github.com/FUenal/cu-boulder-csca-5632-unsupervised-algorithms-final)
 
 ---
 
