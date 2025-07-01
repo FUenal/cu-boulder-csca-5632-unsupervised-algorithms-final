@@ -3,18 +3,6 @@
 
 ---
 
-**Fatih Uenal**
-
-🎓 MSc Computer Science & AI, CU Boulder
-
-🌐 Webpage: https://dataiq.netlify.app/
-
-🔗 LinkedIn: https://www.linkedin.com/in/fatih-uenal/
-
-📊 Kaggle Notebook: https://www.kaggle.com/code/fatihuenal/csca-5632-unsupervised-algorithms-final-2
-
----
-
 ## 1. Project Overview
 
 This project applies unsupervised learning techniques to real-world cybersecurity incident reports from the **VERIS Community Database (VCDB)**. The primary goal is to move beyond simple descriptive statistics and identify distinct attack profiles or "threat archetypes" based on various incident characteristics such as actor types, actions taken, and target assets.
@@ -203,6 +191,20 @@ jupyter notebook csca-5632-unsupervised-algorithms-final-2.ipynb
 ## 11. License
 
 This project is licensed under the **MIT License** — see `LICENSE` for details.
+
+---
+
+## Author 
+
+**Fatih Uenal**
+
+🎓 MSc Computer Science & AI, CU Boulder
+
+🌐 Webpage: https://dataiq.netlify.app/
+
+🔗 LinkedIn: https://www.linkedin.com/in/fatih-uenal/
+
+📊 Kaggle Notebook: https://www.kaggle.com/code/fatihuenal/csca-5632-unsupervised-algorithms-final-2
 
 
 
