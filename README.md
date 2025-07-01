@@ -7,11 +7,11 @@
 
 🎓 MSc Computer Science & AI, CU Boulder
 
-🌐 Webpage: \(https://dataiq.netlify.app/)
+🌐 Webpage: \https://dataiq.netlify.app/
 
-🔗 LinkedIn: \(https://www.linkedin.com/in/fatih-uenal/) 
+🔗 LinkedIn: \https://www.linkedin.com/in/fatih-uenal/
 
-📊 Kaggle Notebook: \(https://www.kaggle.com/code/fatihuenal/csca-5632-unsupervised-algorithms-final-2) 
+📊 Kaggle Notebook: \https://www.kaggle.com/code/fatihuenal/csca-5632-unsupervised-algorithms-final-2
 
 ---
 
