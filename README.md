@@ -197,12 +197,6 @@ jupyter notebook csca-5632-unsupervised-algorithms-final-2.ipynb
 
 ---
 
-## 11. License
-
-This project is licensed under the **MIT License** — see `LICENSE` for details.
-
----
-
 ## Author 
 
 **Fatih Uenal**
