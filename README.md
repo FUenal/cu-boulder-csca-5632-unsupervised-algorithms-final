@@ -14,7 +14,7 @@ By uncovering these hidden patterns, this work aims to:
 
 The absence of predefined labels makes this a classic **unsupervised learning problem**, well suited to clustering algorithms.
 
-![](<./pic1.png>)
+![](<./pic0.png>)
 
 ---
 
@@ -79,6 +79,8 @@ The dataset’s rich categorical structure makes it ideal for unsupervised clust
   - **Elbow Method**
   - **Silhouette Score**
 - **Chosen k = 4**
+
+![](<./pic4.png>)
 
 ---
 
