@@ -14,6 +14,8 @@ By uncovering these hidden patterns, this work aims to:
 
 The absence of predefined labels makes this a classic **unsupervised learning problem**, well suited to clustering algorithms.
 
+![](<./pic1.png>)
+
 ---
 
 ## 2. Dataset
@@ -52,6 +54,7 @@ The dataset’s rich categorical structure makes it ideal for unsupervised clust
 - Identification of widespread "Unknown" values
 - Early detection of attack patterns: e.g., stolen creds, web exploits, hacktivism
 
+![](<./pic1.png>)
 ---
 
 ### 3.3. Dimensionality Reduction (PCA)
@@ -59,11 +62,15 @@ The dataset’s rich categorical structure makes it ideal for unsupervised clust
 - **Method:** PCA to reduce 910 features to 2D
 - Note: PCA captures only a portion of variance but is effective for cluster visualization
 
+![](<./pic2.png>)
+
 ---
 
 ### 3.4. Clustering Algorithms
 - **KMeans Clustering** (k=4)
 - **Agglomerative Clustering** (k=4)
+
+![](<./pic3.png>)
 
 ---
 
